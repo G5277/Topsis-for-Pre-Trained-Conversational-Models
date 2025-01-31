@@ -1,0 +1,8 @@
+nltk==3.9.1
+numpy==2.2.2
+openai==1.60.2
+pandas==2.2.3
+rouge_score==0.1.2
+scikit_learn==1.4.2
+torch==2.5.1+cu124
+transformers==4.48.2
